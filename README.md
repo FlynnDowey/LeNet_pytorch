@@ -4,7 +4,7 @@ LeNet CNN architecture using PyTorch
 ## Training 
 Training and Testing:
 
-The LeNet architecture was trained and tested on the MINST dataset to ensure the codes functionality was correct. From [2] the same architecture was used to build a smile detection network. 
+The LeNet architecture was trained and tested on the MINST dataset to ensure the functionality was correct. From [2] the same architecture was used to build a smile detection network. 
 
 ### Acknowledgements
 Implementation of the code used in this repository was adapted by the following resources:
