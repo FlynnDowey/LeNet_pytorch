@@ -5,6 +5,12 @@ LeNet CNN architecture using PyTorch
 
 It is assumed that the user has installed PyTorch and its required dependencies (i.e. python etc)
 
+## Running the code
+Enter the following command in your console
+```
+python main.py
+```
+
 ## Training and Testing:
 
 The LeNet architecture was trained and tested on the MINST dataset to ensure the functionality was correct. From [2] the same architecture was used to build a smile detection network. 
